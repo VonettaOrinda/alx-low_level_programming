@@ -8,8 +8,7 @@
  * Return: Assigns a random variable n each time it is executed
  */
 int main(void)
-{
-	int n;
+{																		int n;
 	int lastDigit;
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
