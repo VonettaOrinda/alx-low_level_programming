@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- ** main - Entry point
- **
- ** Return: Assigns a random variable n each time it is executed
- **/
+ * main - Entry point
+ *
+ * Return: Assigns a random variable n each time it is executed
+ */
 int main(void)
 {
 	int n;
