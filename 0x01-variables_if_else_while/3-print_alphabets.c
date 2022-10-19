@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
  *main - Entry point
  *   
  * Return: Alphabets in lowercase then in uppercase
  */
-
 int main(void)
 {
 	char i;
